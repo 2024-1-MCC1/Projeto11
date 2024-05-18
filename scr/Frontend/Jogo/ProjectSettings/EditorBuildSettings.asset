@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UIs/Menu.unity
+    guid: 63c24060789d8ee48b763b1a0ad95de8
+  - enabled: 1
+    path: Assets/Scenes/UIs/GameRules.unity
+    guid: 1cfdfd838f95bb24d9e668c681a002da
+  - enabled: 1
+    path: Assets/Scenes/Cidade/Cidade.unity
+    guid: 7e6d3f4e5d896154ab4438845532ac3e
+  - enabled: 1
+    path: Assets/Scenes/Minigames/FlappyBird/FlappyBirdRules.unity
+    guid: a203aed1a7182c9478b1cccdd77103a5
+  - enabled: 1
+    path: Assets/Scenes/Minigames/FlappyBird/Flappy.unity
+    guid: ffe82ab5a4145c349a9000801644f28a
+  - enabled: 1
+    path: Assets/Scenes/Minigames/DonkeyKong/DonkeyKongRules.unity
+    guid: 3558a783128da1e41a40558ca73bed4e
+  - enabled: 1
+    path: Assets/Scenes/Minigames/DonkeyKong/Preload.unity
+    guid: f3e1c1a7bfa6a314abac39e53b0537fa
+  - enabled: 1
+    path: Assets/Scenes/Minigames/DonkeyKong/Donkey.unity
+    guid: 1bf485d2353aa6f4f9e7f5a431207e8d
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Fruit Ninja/FruitNinjaRules.unity
+    guid: 3d12b0d56c3e9884583565933a6e5ccc
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Fruit Ninja/FruitNinja.unity
+    guid: 97114706bef4bee428d7b35532136f0d
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Reciclando/SeparandoOsLixosGameRules.unity
+    guid: 7db8161bf3aa9f343909fa599745ffdc
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Reciclando/SeparandoOsLixos.unity
+    guid: 5601ae998184b7b439afbfe1c70fdb0e
+  - enabled: 1
+    path: Assets/Scenes/UIs/Derrota.unity
+    guid: 501b8862f7e01034ebe2a77f1cd3d20e
+  - enabled: 1
+    path: Assets/Scenes/UIs/TimeOut.unity
+    guid: fb74148b26fc5624b8f3086024a0fcd2
+  - enabled: 1
+    path: Assets/Scenes/Cidade/Cidade-testes.unity
+    guid: a3ba50a6ea4fe2e40bd95ecfe53556b4
+  m_configObjects: {}
