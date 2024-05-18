@@ -8,7 +8,7 @@
 
 ## Peixonautas
 
-## Integrantes:<a href="https://github.com/t-rident">Gabriel Davanço (RA: 24025899)</a>, <a href="https://github.com/guibarioni">Gabriel Barioni (RA:24026140) <a></a>, <a href="https://github.com/MuraCap4">Murilo Vieira (RA:24025726) </a>, <a href="https://github.com/YourFather0">Isadora Teixeira Santoma (RA:24026458) </a>  
+## Integrantes:<a href="https://github.com/t-rident">Gabriel Davanço (RA: 24025899)</a>, <a href="https://github.com/guibarioni">Guilherme Barioni (RA:24026140) <a></a>, <a href="https://github.com/MuraCap4">Murilo Vieira (RA:24025726) </a>, <a href="https://github.com/YourFather0">Isadora Teixeira Santoma (RA:24026458) </a>  
    
  
 ## Professores e Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>
