@@ -8,7 +8,7 @@
 
 ## Peixonautas
 
-## Integrantes:<a href="https://github.com/t-rident">Gabriel Davanço (RA: 24025899)</a>, <a href="https://github.com/guibarioni">Guilherme Barioni (RA:24026140) <a></a>, <a href="https://github.com/MuraCap4">Murilo Vieira (RA:24025726) </a>, <a href="https://github.com/YourFather0">Isadora Teixeira Santoma (RA:24026458) </a>  
+## Integrantes:<a href="https://github.com/t-rident"> Gabriel Davanço (RA: 24025899)</a>, <a href="https://github.com/guibarioni">Guilherme Barioni (RA:24026140) <a></a>, <a href="https://github.com/MuraCap4">Murilo Vieira (RA:24025726) </a>, <a href="https://github.com/YourFather0">Isadora Teixeira Santoma (RA:24026458) </a>  
    
  
 ## Professores e Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>
@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://github.com/2024-1-MCC1/Projeto11/assets/163527967/2021bdd5-357b-4d85-bbc1-171ef971e869" alt="BAD TRASH DAY" border="0">
   
-  Game feito por: <a href="https://github.com/t-rident">Gabriel Davanço (RA: 24025899)</a>, <a href="https://github.com/guibarioni">Gabriel Barioni (RA:24026140) <a></a>, <a href="https://github.com/MuraCap4">Murilo Vieira (RA:24025726) </a>, <a href="https://github.com/YourFather0">Isadora Teixeira Santoma (RA:24026458) </a>  
+  Game feito por: <a href="https://github.com/t-rident">Gabriel Davanço (RA: 24025899)</a>, <a href="https://github.com/guibarioni">Guilherme Barioni (RA:24026140) <a></a>, <a href="https://github.com/MuraCap4">Murilo Vieira (RA:24025726) </a>, <a href="https://github.com/YourFather0">Isadora Teixeira Santoma (RA:24026458) </a>  
 
 Bad Trash day é um jogo baseado nos Objetivos de Desenvolvimento Sustentáveis da ONU, levando em conta os objetivos de números 11, Cidades e comunidades sustentáveis, e 12, Consumo e produção responsáveis. Nosso jogo tem como objetivo concientizar aqueles que jogam sobre essas questões de uma maneira leve e divertida. Nele você é um funcionário, que tem como objetivo principal coletar os sacos de lixos espalhados pela cidade até o fim de seu turno, porém cada um enfrenta um desafio diferente, no qual suas habilidades serão testadas para ver se você será capaz de recolher de maneira adequada cada tipo de lixo diferente.
 
