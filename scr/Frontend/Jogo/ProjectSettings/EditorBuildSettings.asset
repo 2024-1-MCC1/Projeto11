@@ -47,7 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UIs/TimeOut.unity
     guid: fb74148b26fc5624b8f3086024a0fcd2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cidade/Cidade-testes.unity
     guid: a3ba50a6ea4fe2e40bd95ecfe53556b4
   m_configObjects: {}

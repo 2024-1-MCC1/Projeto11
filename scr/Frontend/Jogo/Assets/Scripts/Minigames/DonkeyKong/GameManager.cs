@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
         lives = 2;
        // score = 0;
 
-        SceneManager.LoadScene("DonkeyKongRules");
+        SceneManager.LoadScene("DonkeyKongRules"); //muda cena
     }
 
     /*
