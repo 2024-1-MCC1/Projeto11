@@ -63,7 +63,17 @@ public class ManagerFruitNinja : MonoBehaviour
 
         if (score >= 20)
         {
-            MudarCena.ObjetivoConcluido();
+            if(score > 20)
+            {
+                score = 20;
+                MudarCena.ObjetivoConcluido();
+            }
+
+            else
+            {
+                MudarCena.ObjetivoConcluido();
+            }
+            
         }
     }
 

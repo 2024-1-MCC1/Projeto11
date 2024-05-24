@@ -52,6 +52,10 @@ public class Timer : MonoBehaviour
         Time.timeScale = 1;
     }
 
-   
-    
+    public void ReiniciaJogo()
+    {
+        remainingTime = 300;
+    }
+
+
 }
