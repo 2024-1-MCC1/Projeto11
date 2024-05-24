@@ -1,0 +1,13 @@
+Grupo 11 - Peixonautas - Bad Trash Day
+(n° do grupo - nome do grupo - nome do jogo)
+
+Descrição:
+Bad Trash Day - é um jogo baseado nos Objetivos de Desenvolvimento Sustentáveis da ONU,
+levando em conta os objetivos de números 11, Cidades e comunidades sustentáveis, e 12,
+Consumo e produção responsáveis. Nosso jogo tem como objetivo conscientizar aqueles que
+jogam sobre essas questões de uma maneira leve e divertida. Nele você é um funcionário,
+que tem como objetivo principal coletar os sacos de lixos espalhados pela cidade até o fim de
+seu turno, porém cada um enfrenta um minigame diferente, no qual suas habilidades serão
+testadas para ver se você será capaz de recolher de maneira adequada cada tipo de lixo.
+
+Tags: Educativo, Singleplayer, First-Person, Casual, Mini-Game
